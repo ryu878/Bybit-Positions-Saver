@@ -6,7 +6,7 @@ Saves your positions data to SQLite database
 
 
 ## Requirements
-<code>pip install pybit</code>
+<code>pip install pybit==2.4.1</code>
 
 
 ## Disclaimer
